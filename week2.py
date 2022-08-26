@@ -7,6 +7,7 @@ Do not modify the given functions
 def A_star_Traversal(cost, heuristic, start_point, goals):
     """
     Perform A* Traversal and find the optimal path 
+    
     Args:
         cost: cost matrix (list of floats/int)
         heuristic: heuristics for A* (list of floats/int)
